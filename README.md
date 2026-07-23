@@ -55,9 +55,3 @@
 </div>
 
 ###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Celine-Poloni/Celine-Poloni/languages-output/languages.svg?locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
