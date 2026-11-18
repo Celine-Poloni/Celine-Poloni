@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">♻️ En reconversion vers le développement après ~10 ans en rédactionnel web et community management<br>🎯 À la recherche d'un stage du 9 novembre 2026 au 29 janvier 2027 (présentiel ou hybride) dans le Finistère<br>⏳ En ce moment : un catalogue en PWA React/TypeScript avec backend Express/Prisma/PostgreSQL, un randomizer en Vue 3/TypeScript pensé comme vitrine CI (lint, tests, couverture, pipeline), et un agenda collaboratif en React/Express/PostgreSQL avec authentification JWT<br>❤️ Magic: The Gathering - Gaming et BD - Impression 3D résine - Broderie</p>
+<p data-importer="text" align="left">♻️ En reconversion vers le développement après ~10 ans en rédactionnel web et community management<br>🎯 Stage en cours du 9 novembre 2026 au 29 janvier 2027 dans le Finistère<br>⏳ En ce moment : un catalogue en PWA React/TypeScript avec backend Express/Prisma/PostgreSQL, un randomizer en Vue 3/TypeScript pensé comme vitrine CI (lint, tests, couverture, pipeline), et un agenda collaboratif en React/Express/PostgreSQL avec authentification JWT<br>❤️ Magic: The Gathering - Gaming et BD - Impression 3D résine - Broderie</p>
 
 ###
 
